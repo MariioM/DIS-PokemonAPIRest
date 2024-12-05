@@ -1,6 +1,6 @@
 services:
   springboot-app:
-    build: .github/workflows
+    build: .
     ports:
       - "8301:8081"
     volumes:
