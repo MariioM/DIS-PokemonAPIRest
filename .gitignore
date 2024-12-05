@@ -30,7 +30,7 @@ build/
 !**/src/test/**/build/
 
 # No ignorar los archivos .jar en la carpeta target
-!/target/
+!/target/*.jar
 
 ### VS Code ###
 .vscode/
